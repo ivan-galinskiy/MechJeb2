@@ -122,4 +122,4 @@ Licensed under the [GNU General Public License, Version 3](LICENSE.md).
     Check if your problem has already been reported: https://github.com/MuMech/MechJeb2/issues  
     If you found a problem which is similar to yours, feel free to add more information to the existing issue.
 
-    **If you cannot find the problem**, get a [log](https://forum.kerbalspaceprogram.com/index.php?/topic/83212-how-to-get-support-read-first/#Logs) and create a new issue with a descriptive title of the problem.
+    **If you cannot find the problem**, get a [log](https://forum.kerbalspaceprogram.com/index.php?/topic/83212-how-to-get-support-read-first/#Logs) and create a new issue with a descriptive title of the problem. ---
